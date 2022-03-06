@@ -1,6 +1,0 @@
-CVTD-1: Server pulls data from server and stores it locally and in files
-CVTD-2: Server accepts requests from clients and responds with data
-    localhost:8080/agency=cvtd&startDate=2021-06-04_11:30:15&endDate=2021-06-04_11:44:15&busID=10
-        Returns positions at these times
-    Smart client, dumb server. Clients have to be smart, since they have to be able to 
-        interpolate and stuff
